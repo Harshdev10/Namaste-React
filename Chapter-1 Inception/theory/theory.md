@@ -2,7 +2,7 @@
 # Chapter 1
 
  - Q.1 What is `Emmet`? <br>
- Ans: An `emmet` is a set of plugin used by text editors to quickly write the code in html , xml ,xss etc. There is a special shortcut syntax for writing the code which u have to remember which then converted to a full expanded code.
+ Ans: An `emmet` is a set of plugin used by text editors to quickly write the code in html , xml ,xss etc. There is a special shortcut syntax for writing the code which u have to remember which then converted to a full   code.
 
 - Q.2 Difference between a `library` and `framework`? <br>
 Ans: `Library` and `framework` are both the code written by someone else. And we use these libraries and framework to help in our project or the application we are building.
