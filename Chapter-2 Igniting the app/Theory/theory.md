@@ -6,7 +6,7 @@
 Ans: NPM is a package manager which stores the packages online  and we can use these npm packages in our project.NPM is used when you have `node` installed on our machine. It uses CLI to get the packages from the database. The database is known as `NPM registry`. <br>
 Alternative of `npm` is `yarn`.
 
-- ##### How to initialise NPM?
+* ##### How to initialise NPM?
 - To initialize `npm` in our project we should use the command `npm init ` and then fill all the details it ask for .After that a `package.json` file is created in our working directory.
 
 - Q.2 What is `Parcel/Webpack` ? Why `do we need it`? <br>
